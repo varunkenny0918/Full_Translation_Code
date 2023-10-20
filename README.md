@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
 
 # TranslateDataCode
-(https://developers.google.com/admin-sdk/directory/v1/languages)
+https://developers.google.com/admin-sdk/directory/v1/languages
 
 ## Development server
 
