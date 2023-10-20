@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
 
-# TranslateDataLanguageCode
+# Translate Data Language Code
 https://developers.google.com/admin-sdk/directory/v1/languages
 
 ## Development server
